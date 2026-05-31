@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_TCP/01_TCP_HW_Task1.csproj" />
+  <Project Path="01_TCP_Client_HW/01_TCP_Client_HW_Task1.csproj" Id="4e00e2b8-cd34-4b6b-947b-33fae3567752" />
+  <Project Path="01_TCP_Client_HW_Task2/01_TCP_Client_HW_Task2.csproj" Id="9f7000a8-0e77-489b-ade8-9245282da9a5" />
+  <Project Path="01_TCP_HW_Task2/01_TCP_HW_Task2.csproj" Id="4644f000-b2e2-4c46-88bd-2501be5a1189" />
+</Solution>
